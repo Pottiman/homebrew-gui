@@ -1,5 +1,7 @@
 # Homebrew GUI
 
+This is a revived version of the homebrew-gui repo, since cask does not have the ability to build from source.
+
 ## How do I install these formulae?
 `brew install homebrew/gui/<formula>`
 
